@@ -1,5 +1,4 @@
 class CardGame:
-    #   attributes should be defined here
 
   def check_for_ace(self, card):
     if card.value = 1: # should be '=='
